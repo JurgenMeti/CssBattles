@@ -1,0 +1,30 @@
+<a><b><c><style>
+  * {
+    position: absolute;
+    background: #5393BD;
+  }
+
+  a, b, c {
+    background: #FAE29E;
+  }
+
+  a {
+    width: 200px;
+    height: 30px;
+    margin: 212px 92px;
+  }
+
+  b {
+    width: 30px;
+    height: 200px;
+    margin: -170px 0;
+  }
+
+  c {
+    width: 180px;
+    height: 30px;
+    rotate: 45deg;
+    margin: 110px -13px;
+  }
+</style>
+
