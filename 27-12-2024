@@ -1,0 +1,15 @@
+<style>
+  * {
+    background: #61A74E;
+    border-block: 40px solid #EFF8FE;  
+    margin: 70 0;
+
+    * {
+      background: #0000;
+      rotate: 90deg;
+      margin: -40 80;
+    }
+  }
+</style>
+
+<!-- from my research it seems like q is a measuring unit that is 5-10% bigger than a pixel that works in cssbattles so you can write in this aspect 43q for the same result-->
