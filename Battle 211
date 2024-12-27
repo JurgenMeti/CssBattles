@@ -1,0 +1,47 @@
+<a></a>
+<b></b>
+<c></c>
+<d></d>
+<s></s>
+<l></l>
+<style>
+  * {
+    position: fixed;
+    background: #9B8170;
+  }
+
+  a, b, c, d {
+    border: 20px solid #fff;
+    border-radius: 1in 1in 0 0;
+  }
+
+  a, b {
+    border-radius: 1in 1in 0;
+    padding: 20;
+    rotate: 45deg;
+    margin: 83 102;
+  }
+
+  b {
+    margin: 83 202;
+  }
+
+  c, d {
+    padding: 30 50;
+    margin: 152 172;
+  }
+
+  d {
+    margin: 152 72;
+  }
+
+  s, l {
+    padding: 20 10;
+    margin: 232 172;
+  }
+
+  l {
+    rotate: 45deg;
+    margin: 145 260;
+  }
+</style>
