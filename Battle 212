@@ -1,0 +1,32 @@
+<a>
+<b>
+<style>
+  *{
+    background:#FFED99;
+    +*,
+    
+    a{
+      background:conic-gradient(at 38% 38%,#3F8627 50%,#9F3333 0 75%,#0000 0);
+      margin:61 56;
+      border-radius:69px 0 198q 122q}
+  }
+  
+  a, b {
+    position:fixed
+  }
+  
+  a {
+    background:#F48B26;
+    padding:34 55;
+    margin:0;
+    scale:-1;
+    overflow:hidden
+  }
+  
+  b {
+   padding:13 8;
+   margin:-34-29;
+   box-shadow:-21q -11q 0 11q
+  }
+  
+</style>
