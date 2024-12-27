@@ -1,0 +1,28 @@
+<div></div>
+<div></div>
+
+<style>
+  * {
+    background-color: #F8F8F8;
+    * {
+      background: repeating-linear-gradient(#787885 0 10px, #F8F8F8 0 20px);
+      margin: 110px 30px 10px;
+      box-shadow: 0 -20px #F8F8F8, 0 -30px #787885;
+    }
+  }
+
+  div {
+    position: fixed;
+    box-shadow: 0 0 0 10px #F8F8F8;
+    background: #787885;
+    padding: 75px 86px;
+    margin: 20px 84px;
+  }
+
+  div + div {
+    padding: 25px 20px;
+    margin: -90px 0;
+    color: #787885;
+    box-shadow: 60px 0, 120px 0, 180px 0, 240px 0, 300px 0;
+  }
+</style>
