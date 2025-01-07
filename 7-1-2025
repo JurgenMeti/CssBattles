@@ -1,0 +1,46 @@
+<a><b><c><d><e><f>
+<style>
+  * {
+    position: fixed;
+    background: #4A9A86;
+  }
+
+  a, b, c {
+    width: 80px;
+    height: 80px;
+    background: #4C4C6B;
+    position: absolute;
+  }
+
+  b {
+    background: #FAE29E;
+  }
+
+  a {
+    margin: 102px 52px;
+  }
+
+  b, c {
+    margin: 0px 100px;
+  }
+
+  d, e, f {
+    width: 40px;
+    height: 40px;
+    background: #FAE29E;
+    border-radius: 50%;
+    position: absolute;
+  }
+
+  d {
+    margin: 20px -180px;
+  }
+
+  e {
+    background: #4C4C6B;
+  }
+
+  e, f {
+    margin: 0px 100px;
+  }
+</style>
