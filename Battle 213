@@ -1,0 +1,17 @@
+<style>
+
+  & {
+    background: #EEF8FF;
+    color: #EEF8FF;
+    margin: 175px 300px 75px 0;
+    border-radius: 50%;
+    box-shadow: 106px 0, 212px 0, 318px 0, 127px 355px 0 328px #8AB8B6;
+  }
+
+  * {
+    background: #4A7D7B;
+    margin: -143px -200px -7px 100px;
+    clip-path: polygon(50% 0%, 100% 35%, 50% 70%, 100% 70%, 82.5% 100%, 17.5% 100%, 0% 70%, 50% 70%);
+  }
+
+</style>
