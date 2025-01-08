@@ -1,0 +1,13 @@
+<style>
+  * {
+    background: radial-gradient(1q, #2D3464 110px, #D95362);
+    * {
+        background: #D95362;
+        margin: 75 125 170;
+        border-inline: 59q solid #2D3464;
+        box-shadow: 0 42q #D95362;
+        
+        
+    }
+}
+</style>
