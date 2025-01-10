@@ -1,0 +1,14 @@
+<style>
+    * {
+        background: #FFE4E0;
+        border: solid#E05947;
+        border-width: 0 50 50;
+        margin: 110 50 40;
+        border-radius: 0 0 202q 202q;
+
+        * {
+            margin: -20 75;
+            border-width: 25;
+        }
+    }
+</style>
