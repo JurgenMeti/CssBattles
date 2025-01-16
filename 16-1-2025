@@ -1,0 +1,20 @@
+<p></p>
+<p></p>
+<style>
+  * {
+    background: #8F77DA;
+  }
+
+  p {
+    background: #A1E6E4;
+    padding: 35px 160px;
+    transform: rotate(55deg);
+    position: fixed;
+    margin: 52px 35px;
+  }
+
+  p+p {
+    transform: rotate(-55deg);
+    left: 2px;
+  }
+</style>
